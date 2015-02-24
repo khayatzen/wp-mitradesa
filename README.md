@@ -1,11 +1,27 @@
-# Plugin wordpress Mitradesa
+# wp-mitradesa
 Plugin untuk melihat statistik penduduk menggunakan API Mitradesa
 
-# Pasang Plugin
+--- 
+Instalasi
+---
 Ekstrak tarball di wp-content/plugins
 
-# Pengaturan
-Isikan alamat URL aplikasi Mitradesa
+Pengaturan
+---
+Isikan alamat URL aplikasi Mitradesa pada halaman pengaturan plugin
 
-# Panggil statistik dari wordpress page
-Gunakan shotcode [openmitradesa]
+Panggil statistik dari wordpress page
+---
+Buat halaman dan sisipkan shotcode 
+```
+[openmitradesa]
+```
+pada editor halaman.
+
+Lisensi
+---
+MIT
+
+Info selengkapnya
+---
+Kunjungi http://mitradesa.id
