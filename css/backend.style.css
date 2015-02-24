@@ -1,0 +1,24 @@
+table.mitraformcontainer{width:98%;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;border:1px solid #E2E2E2;margin-bottom:10px;}
+table.mitraformcontainer th{font-weight:bold;background:#E2E2E2;color:#4C4D50;text-align:left;padding:8px;}
+table.mitraformcontainer td{padding:5px;vertical-align:top;border-top:1px solid #F3F3F3;}
+table.mitraformcontainer td.label{width:160px;}
+#mitraResponse{width:auto;}
+#mitraResponse .widefat,.fixed{width:700px;}
+#loading{margin:0 auto;height:15px;padding:3px;font-weight:bold;font-size:14px;color:red;}
+
+#gMap{float:left;width:400px;height:250px;/*margin:10px 3px;*/}
+#petawilayahkerja{max-width:700px;min-height:320px;margin:10px 3px;padding:0;border:1px solid #E2E2E2;}
+#petawilayahkerja iframe{padding:0;margin:0;min-width:700px;min-height:300px;}
+#wilayahKerjaForm{display:none;}
+
+#table-wilayah-kerja{width:100%;}
+#elemenWilayah{padding:4px;clear:both;}
+#elemenWilayah ul{list-style: circle;}
+#elemenWilayah ul li{margin:5px;border:1px solid #999690;padding:3px;}
+
+#latlong_wilayahkerja{font-size:8px;}
+
+table.mitraformcontainer .alamatContainer{width:auto;}
+table.mitraformcontainer .alamatContainer td{padding:5px;vertical-align: top;}
+table.mitraformcontainer .alamatContainer .mapOption{padding:5px;background:#D2D2D2;}
+table.mitraformcontainer .alamatContainer .mapOption p{padding-left:25px;}
